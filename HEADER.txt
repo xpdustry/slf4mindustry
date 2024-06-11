@@ -1,9 +1,9 @@
 /*
- * This file is part of TemplatePlugin. A template plugin for Mindustry to get you started quickly.
+ * This file is part of SLF4MD. A set of plugins providing various SLF4J implementations for Mindustry.
  *
  * MIT License
  *
- * Copyright (c) 2024 Xpdustry
+ * Copyright (c) 2024 xpdustry
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal

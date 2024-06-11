@@ -1,13 +1,8 @@
 {
-  "displayName": "TemplatePlugin",
-  "name": "template",
-  "description": "A template plugin for Mindustry to get you started quickly.",
-  "version": "5.0.0",
+  "name": "slf4md",
   "author": "xpdustry",
-  "repo": "xpdustry/template-plugin",
-  "main": "com.xpdustry.template.TemplatePlugin",
+  "repo": "xpdustry/slf4md",
   "minGameVersion": "146",
   "java": true,
-  "hidden": true,
-  "dependencies": ["distributor-common"]
+  "hidden": true
 }
